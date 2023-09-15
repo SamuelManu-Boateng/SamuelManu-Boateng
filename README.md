@@ -6,7 +6,8 @@ I am a dedicated Finance professional deeply enthusiastic about Data analysis. M
 - 🌱 I’m currently learning Excel, SQL, Python and Tableau
 - 💞️ I’m looking to collaborate on projects involving Data Analystics
   
-📫 How to reach me
+How to reach me 📫 
+-
 If you would like to get in touch or collaborate with me on any project you can email me at manuboatengsamuel@yahoo.co.uk. You can also send me a message on LinkedIn @Samuel Manu-Boateng
 
 <!---
